@@ -3,13 +3,13 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and fullstack development, complemented by specialized expertise in blockchain technology. <br>This individual is adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, they excel in crafting comprehensive applications that meet modern business needs. <br>As a blockchain expert, they bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>\
+&nbsp;&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and fullstack development, complemented by specialized expertise in blockchain technology. <br>This individual is adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, they excel in crafting comprehensive applications that meet modern business needs. <br>As a blockchain expert, they bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>
 
 ### STRENGTH
-&nbsp;&nbsp;&nbsp;Advanced proficiency in a wide range of programming languages and frameworks.\
-&nbsp;&nbsp;&nbsp;Extensive experience in system architecture, microservices, and cloud computing.\
-&nbsp;&nbsp;&nbsp;Proven ability to lead and mentor teams in agile and fast-paced environments.\
-&nbsp;&nbsp;&nbsp;Strategic implementation of blockchain solutions to enhance business processes and security.<br>\
+&nbsp;&nbsp;&nbsp;Advanced proficiency in a wide range of programming languages and frameworks.<br>\
+&nbsp;&nbsp;&nbsp;Extensive experience in system architecture, microservices, and cloud computing.<br>\
+&nbsp;&nbsp;&nbsp;Proven ability to lead and mentor teams in agile and fast-paced environments.<br>\
+&nbsp;&nbsp;&nbsp;Strategic implementation of blockchain solutions to enhance business processes and security.<br>
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
