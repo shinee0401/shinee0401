@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_pt.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -6,14 +6,14 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Cint](https://www.cint.com/). \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, desenvolvimento e qualidade.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,14 +23,13 @@
   <!--
   <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://lattes.cnpq.br/5511556848445955"><img src="https://img.shields.io/badge/lattes-FFFFFF.svg?&style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACEFBMVEUAAAApQ14nQFj////r7/O8xMu8xMwnQlwmP1eeqLQjO1I2WHu1vsZjdYcsS2p4h5avuMI2XIPByM44ZJCbqrk1YYwtVn5mjrcxW4UwWIAvW4YAAAUrX5EvY5ksXIspW438/P0lU4EoV4ZhhKfe5u4nPVQqQlspQVsiO1QLJUAgNEkrRmEzUnI7X4Q/Y4dLZoJWbIJsfY7Axs4tS2k7YYicutixwtO5xM/U2d7r7e8hOFA6YoqErdWBnLc+Y4guT3E7VGw9U2hufY0wU3ZCcqKGqMlZgalKa4x0h5pofJD///80XYVCdal1l7t1nMNOhr6is8VMa4muusUlSGtDdqlQeaSqu8yGrNKVtte4zN90jqhBapObrL3///9Tfad4nMF9oshskLOJnK95gIZldodEX3oxW4ajtcf///8tVXw4YYlDa5JEbZY8XX0hPlsgQmS6ydj///8uWIEuX4/r7/QvYpcuZJrV3+r///8oWYsoXZKMqcbe5u7///8VN1YnWYyKp8PI1uP5+vz///9Rd52sv9Pd5e3///////9MfrBeksdOgrdUjslPh8FNhsFFea5BcaFJgrtHgLlGgLpii7VJf7dCerNDc6MqVYA0aZ1IeKktX5EtX5AsXY0tXY0wY5YyaZ4yaaB7ncAtZJouZJouZJssY5ovZZtrkbgnXZMlXJIoXpREc6I0ZZZTfaf///+qBrbaAAAAiXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl5fNRAFYND19Om8Zg5R7/zSmW8hCar98/DIVDYSE8r47OKPdgQRw+2x+7fQOgWa+G9+197Q/IsBVNrz/aQjWLL1sAw+5vbu7d3urAsQvHhn+7gbIdj2pCQCie64Wg0qqZVMEWJdG8oAAAABYktHRAMRDEzyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5QISCjIeEGUAIQAAAAFvck5UAc+id5oAAADXSURBVAjXY2BgZGJWVVPX0GRhZWNgYGDn0NLW0dXTNzA04gRyubiNTTq7TM3MLSx5eBkY+Kysu3tsbO3sHRyd+AUYBJ1devtc3fonuHt4egkxCHv7TJzk6+c/eUpAYJAIg2hwyNRpoWHhEZFR0TGxDGLicfEJiUnJKalp09MzGCQkM7Oyc3Lz8mfMnFVQyMAgVVQ8e87cefMXLFxUIs3AICNbWrZ4ydJly1eUVzAzMMjJV1atXLV6TXVNrQKQy6BYV792XUNjUzMzM4irpNzS2tbeoQLiAQAJLzuSRlKzowAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xOC8xMnLMg2gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDItMThUMTA6NTA6MTQrMDA6MDBPCDl2AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAyLTE4VDEwOjUwOjE0KzAwOjAwPlWBygAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAASUVORK5CYII=" />
-  </a>
   -->
 </p>
 
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -104,7 +103,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Outras conhecimentos, sempre aprendendo</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -142,7 +141,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
@@ -153,12 +152,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <hr/>
-
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
+<br/>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
