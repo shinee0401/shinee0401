@@ -6,15 +6,13 @@
 &nbsp;&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and fullstack development, complemented by specialized expertise in blockchain technology. <br>This individual is adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, they excel in crafting comprehensive applications that meet modern business needs. <br>As a blockchain expert, they bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>
 
 ### STRENGTH
-&nbsp;&nbsp;&nbsp;Advanced proficiency in a wide range of programming languages and frameworks.<br>\
-&nbsp;&nbsp;&nbsp;Extensive experience in system architecture, microservices, and cloud computing.<br>\
-&nbsp;&nbsp;&nbsp;Proven ability to lead and mentor teams in agile and fast-paced environments.<br>\
-&nbsp;&nbsp;&nbsp;Strategic implementation of blockchain solutions to enhance business processes and security.<br>
+&nbsp;&nbsp;&nbsp;- Advanced proficiency in a wide range of programming languages and frameworks.<br>\
+&nbsp;&nbsp;&nbsp;- Extensive experience in system architecture, microservices, and cloud computing.<br>\
+&nbsp;&nbsp;&nbsp;- Proven ability to lead and mentor teams in agile and fast-paced environments.<br>\
+&nbsp;&nbsp;&nbsp;- Strategic implementation of blockchain solutions to enhance business processes and security.<br>
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
   <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -149,12 +147,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <hr/>
-
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
