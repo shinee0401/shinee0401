@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and fullstack development, complemented by specialized expertise in blockchain technology. <br>This individual is adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, they excel in crafting comprehensive applications that meet modern business needs. <br>As a blockchain expert, they bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>
+&nbsp;&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and fullstack development, complemented by specialized expertise in blockchain technology. <br>I am adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, I excel in crafting comprehensive applications that meet modern business needs. <br>As a blockchain expert, I bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>
 
 ### STRENGTH
 &nbsp;&nbsp;&nbsp;- Advanced proficiency in a wide range of programming languages and frameworks.<br>\
