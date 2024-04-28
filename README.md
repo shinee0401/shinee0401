@@ -25,7 +25,7 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+[Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
 ![Primefaces](https://img.shields.io/badge/PRIMEFACES-039BE5.svg?&style=flat&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
