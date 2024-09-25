@@ -17,7 +17,7 @@
 ### &nbsp; 🖥️ Main tech knowledge
 &nbsp;&nbsp;&nbsp;☑  FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, etc<br>
 &nbsp;&nbsp;&nbsp;☑  BackEnd -  Node, Express, Spring, Django, ASP.NET MVC(Core), etc<br>
-&nbsp;&nbsp;&nbsp;☑  AWS, Docker, Kubernetes, Firebase<br>
+&nbsp;&nbsp;&nbsp;☑  Cloud & DevOps - AWS, Docker, Kubernetes, Firebase<br>
 &nbsp;&nbsp;&nbsp;☑  BlockChain - Web3, Dapp, NFT Marketplace, Ethereum, Solana, Smart Contract, Anchor<br>
   
 <table>
