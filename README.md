@@ -2,7 +2,7 @@
 
 ### &nbsp; 🕵🏻 About Me
 
-&nbsp;&nbsp; An accomplished senior software engineer with expertise in full-stack development and a specialized focus on cutting-edge technologies. <br>&nbsp;&nbsp; Demonstrated leadership in guiding complex projects from inception to implementation, delivering scalable, secure, and efficient solutions. <br>&nbsp;&nbsp; Proficient in both front-end and back-end development, specializing in crafting tailored applications that meet modern business needs. <br>&nbsp;&nbsp; Highly knowledgeable in blockchain technology, possessing in-depth understanding of decentralized systems, smart contracts, and consensus algorithms, and adept at seamlessly integrating them into web applications. <br><br>
+&nbsp;&nbsp; An accomplished senior software engineer with expertise in full-stack development, a specialized focus on cutting-edge technologies. <br>&nbsp;&nbsp; Demonstrated ability in guiding complex projects from inception to implementation, delivering scalable, secure, and efficient solutions. <br>&nbsp;&nbsp; Proficient in both front-end and back-end development, specializing in crafting tailored applications that meet modern business needs. <br>&nbsp;&nbsp; Highly knowledgeable in blockchain technology, possessing in-depth understanding of decentralized systems, smart contracts, and consensus algorithms, and adept at seamlessly integrating them into web applications. <br><br>
 
 <hr/>
 
