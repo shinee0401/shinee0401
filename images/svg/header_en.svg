@@ -193,7 +193,7 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="84" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="66" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Senior Software Engineer | Full-Stack | Blockchain Enthusiast
